@@ -1,3 +1,9 @@
+<div align="center" dir="auto" width="500px" height="100%">
+  
+[![MasterHead](https://raw.githubusercontent.com/michaeldiputra/michaeldiputra/main/pictures/banner-2.jpg)](https://github.com/michaeldiputra)
+
+</div>
+
 <h1 align="center">Hi, I'm Michael</h1>
 <h3 align="center">A student who is learning about Frontend Developer</h3>
 <br>
